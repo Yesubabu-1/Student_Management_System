@@ -1,0 +1,71 @@
+/* ==========================
+   LIGHT THEME VARIABLES
+========================== */
+
+body.light {
+
+    --bg-color: #f8fafc;
+
+    --surface-color: #ffffff;
+
+    --surface-hover: #f1f5f9;
+
+    --text-color: #1e293b;
+
+    --primary-color: #10b981;
+
+    --primary-hover: #059669;
+
+    --secondary-color: #0ea5e9;
+
+    --secondary-hover: #0284c7;
+
+    --warning-color: #f59e0b;
+
+    --warning-hover: #d97706;
+
+    --danger-color: #ef4444;
+
+    --danger-hover: #dc2626;
+
+    --border-color: #e2e8f0;
+
+    --table-header: #10b981;
+
+}
+
+/* ==========================
+   DARK THEME VARIABLES
+========================== */
+
+body.dark {
+
+    --bg-color: #0f172a;
+
+    --surface-color: #1e293b;
+
+    --surface-hover: #334155;
+
+    --text-color: #f8fafc;
+
+    --primary-color: #10b981;
+
+    --primary-hover: #34d399;
+
+    --secondary-color: #38bdf8;
+
+    --secondary-hover: #0ea5e9;
+
+    --warning-color: #f59e0b;
+
+    --warning-hover: #fbbf24;
+
+    --danger-color: #ef4444;
+
+    --danger-hover: #f87171;
+
+    --border-color: #475569;
+
+    --table-header: #059669;
+
+}
